@@ -1,5 +1,6 @@
 # Rainfall-Prediction-Project
 Rainfall Prediction Project
+
 This project contains a Jupyter Notebook that demonstrates a simple machine learning model to predict rainfall. The model is built using a linear regression algorithm and is trained on weather data.
 
 Project Description
